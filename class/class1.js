@@ -9,6 +9,6 @@ class Person {
     }
   }
   
-  const person = new Person("Charles", 18);
+  const person = new Person("Damilola", 18);
 
   person.greet();
