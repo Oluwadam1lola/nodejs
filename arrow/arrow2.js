@@ -1,4 +1,4 @@
 const greet = name => `Hello, ${name}!`
 
-const greeting = greet('Charles')
+const greeting = greet('Damilola')
 console.log(greeting)
