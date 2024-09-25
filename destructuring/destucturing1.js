@@ -1,4 +1,4 @@
-const user = { name: 'Charles', age: 18 }
+const user = { name: 'Damilola', age: 18 }
 const { name, age, role = 'student' } = user
 
 console.log(`${name}, ${age} years old, Role: ${role}`)
